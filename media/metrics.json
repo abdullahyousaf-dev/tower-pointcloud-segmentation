@@ -1,0 +1,14 @@
+{
+  "train_towers": 60,
+  "test_towers": 30,
+  "ground_point_iou": 0.985,
+  "pole_point_iou": 0.995,
+  "point_macro_f1": 0.953,
+  "antenna_precision": 0.887,
+  "antenna_recall": 0.983,
+  "antenna_mean_3d_iou": 0.567,
+  "azimuth_mae_deg": 0.24,
+  "facing_yaw_mae_deg": 3.53,
+  "center_error_cm": 9.2,
+  "antenna_height_mae_cm": 18.1
+}
